@@ -4,6 +4,10 @@
  #The document obect model is a programming interface for Web documents.
  #The document object represents the whole document as a tree of objects(HTML,HEAD,BODY,and other HTML tags).
  It is the root element represents the Html document.
+ #Each HTML document that gets loaded into a window becomes a document object.
+ #Using document object JAVASCRIPT can modify,add and delete he HTML elements,attribute CSS style in the page.
  
  BROWSER OBJECT MODEL(BOM):
- #The browser object model contains objects that represents the current 
+ #The browser object model contains objects that represents the current browser window.
+ #Window object has a properties like browsing history,location and the device's screen etc.
+ #It is the top most object and outermost element of the object hierarchy.
