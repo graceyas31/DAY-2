@@ -1,0 +1,9 @@
+                                                     DOCUMENT AND WINDOW OBJECT IN JAVASCRIPT
+                                                    
+ DOCUMENT OBJECT MODEL(DOM):
+ #The document obect model is a programming interface for Web documents.
+ #The document object represents the whole document as a tree of objects(HTML,HEAD,BODY,and other HTML tags).
+ It is the root element represents the Html document.
+ 
+ BROWSER OBJECT MODEL(BOM):
+ #The browser object model contains objects that represents the current 
